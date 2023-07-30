@@ -1,0 +1,6 @@
+.playlistWrapper{
+    height: 100%; // for gradient bg
+    overflow: auto;
+    overflow: overlay;
+    scroll-behavior: smooth;
+}
